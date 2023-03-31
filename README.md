@@ -11,17 +11,17 @@ Web profile dari SL saya buat menggunakan Laravel dengan framework Bootstrap. Sa
 ## Dokumentasi Web Profile
 ### Home Page
 Home page menampilkan profil singkat tentang diri saya dan jenjang perkuliahan saya.
-![Home](https://github.com/liam3333/Dokumentasi/HomePage.jpg)
+![Home](https://github.com/liam3333/Profile/blob/main/Dokumentasi/HomePage.jpg)
 
 ### About Me
 About Me menampilkan data diri saya lebih detail dengan menampilkan kemampuan-kemampuan berbahasa saya.
-![AboutMe](https://github.com/liam3333/Dokumentasi/AboutMe.jpg)
+![AboutMe](https://github.com/liam3333/Profile/blob/main/Dokumentasi/AboutMe.jpg)
 
 ### Skill Experience
 Skill & Experience menampilkan apa saja skill yang saya miliki berserta pengalaman apa saja yang saya miliki.
-![SkillExperience](https://github.com/liam3333/Dokumentasi/SkillExperience.jpg)
+![SkillExperience](https://github.com/liam3333/Profile/blob/main/Dokumentasi/SkillExperience.jpg)
 
 ### Education
 Eduacation menampilkan bagaimana jenjang pendidikan saya sebelumnya dimulai dari SD, SMP, hingga SMA.
-![Education](https://github.com/liam3333/Dokumentasi/Education.jpg)
+![Education](https://github.com/liam3333/Profile/blob/main/Dokumentasi/Education.jpg)
 
