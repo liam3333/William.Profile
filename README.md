@@ -9,7 +9,7 @@ NIM     : 2502040764
 Web profile dari SL saya buat menggunakan Laravel dengan framework Bootstrap. Saya menggunakan Laravel bertujuan agar bisa memakai routes sehingga dapat mengkoneksi antar halaman dari website dengan mudah. Sedangkan untuk Bootstrap bertujuan agar styling CSS dari web profile saya bisa lebih mudah dengan memanggil class-class yang sudah tersedia. Bootstrap yang saya gunakan telah saya install secara local dapat dilihat dari folder 'public/node_modules/..'. Selain itu, saya juga menggunakan framework lainnya, seperti font awesome dan unpkg (AOS). Font awesome untuk mengimpor icon-icon secara online sedangkan unpkg untuk memberikan animasi ketika melakukan scroll web profile.
 
 Berikut adalah dokumentasi code saya, yang meliputi instalasi Bootstrap melalui library npm dan menerapkan route Laravel di web.php untuk mendirect ke halaman web lainnya seperti pada dokumentasi web di bawah ini. 
-![Code](https://github.com/liam3333/Profile/blob/main/Dokumentasi/Code Documentation.jpg)
+![Code](https://github.com/liam3333/Profile/blob/main/Dokumentasi/CodeDocumentation.jpg)
 
 ## Dokumentasi Web Profile
 ### Home Page
