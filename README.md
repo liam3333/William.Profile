@@ -25,6 +25,6 @@ Skill & Experience menampilkan apa saja skill yang saya miliki berserta pengalam
 ![SkillExperience](https://github.com/liam3333/Profile/blob/main/Dokumentasi/SkillExperience.jpg)
 
 ### Education
-Eduacation menampilkan bagaimana jenjang pendidikan saya sebelumnya dimulai dari SD, SMP, hingga SMA.
+Education menampilkan bagaimana jenjang pendidikan saya sebelumnya dimulai dari SD, SMP, hingga SMA.
 ![Education](https://github.com/liam3333/Profile/blob/main/Dokumentasi/Education.jpg)
 
